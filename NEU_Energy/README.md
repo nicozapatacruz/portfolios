@@ -1,13 +1,12 @@
-# PORTFOLIOS
+# NEU Energy Main Project
+Here you can find some mockups of the design of the main project I participated in during my working time in [NEU Energy SAS](https://www.neu.com.co) between 2022 and 2023, in Medellin, Colombia.
 
-  # NEU Energy Projects
-  In the folder NEU_Energy you can find the projects I participated in during my working time in [NEU Energy SAS](https://www.neu.com.co) between 2022 and 2023, in Medellin, Colombia.
+That project was the complete development of the Notifications Sowftware for the Platform of the company, both mobile and web versions, along with email notifications and SMS and also the develompent of the front end of those notifications (what you see in the mockups).
 
-  # Cheetah Conversions Projects
-  In the folder Cheetah_Convertions you can find the projects I participated in during my internship of the Bachelors Degree in [Cheetah Convertions](https://cheetahconversions.com) in 2021 in Berlin, Germany.
+The program compares and analyzes the data stored in the database (developed in AWS Lambda and PostgreSQL stored procedures) and notifies the user about their energy consumption or alerts for atypical consumption in the FrontEnd using NextJS and frameworks such as Tailwind CSS and Bootstrap.
 
-  # University Portfolio
-  In the folder University_Portfolio you can find the [portfolio](https://github.com/nicozapatacruz/portfolios/blob/5d5dfd5064b7740c1ba9883c81ff446382ebec0c/University_Portfolio/Portfolio.pdf) of the projects I completed during my Bachelor's Degree of Product Design Engineering in EAFIT University, Medellin - Colombia between 2016 and 2021.
+Also, the program had an extra tool that you could use to create Alerts whenever a variable, like the consumption, matches a condition you set, as you can see in the last mockups.
+
 
 
 
