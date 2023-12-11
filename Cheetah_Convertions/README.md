@@ -1,6 +1,6 @@
 # Cheetah Conversions Projects
 
-This are the projects that I made during my internship of the Bachelors Degree in Cheetah Convertions in 2021 in Berlin, Germany.
+This are the projects I participated in during my internship of the Bachelors Degree in Cheetah Convertions in 2021 in Berlin, Germany.
 
 The main project was to redesign the HomePage of the company, design that you can find in the files Cheetah_Convertiones_Web.pdf and Cheetah_Other_Pages.pdf.
 
